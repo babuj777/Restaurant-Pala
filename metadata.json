@@ -1,0 +1,7 @@
+{
+  "name": "Anakkallumkal Cafe - Babu Joseph",
+  "description": "A voice-enabled AI assistant for Anakkallumkal Cafe featuring Babu Joseph, the friendly manager.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
